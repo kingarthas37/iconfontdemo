@@ -1,4 +1,4 @@
-iconfontdemo
+iconfont demo
 ============
 
 ##1.安装iconfont字体编辑工具FontLab
