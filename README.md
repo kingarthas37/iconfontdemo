@@ -34,6 +34,7 @@ iconfont demo
 ```
 
 ##5.显示html
+将刚才生成的demo B001 icon替换到下面的代码中，搞定：
 ```html
   <i class="iconfont">&#xB001;</i>
 ```
